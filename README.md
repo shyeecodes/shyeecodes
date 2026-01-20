@@ -11,9 +11,6 @@ We are a **team of expert developers and designers** who combine our knowledge i
   - TypeScript, JavaScript
   - Tailwind CSS, Styled Components
 
-- **Mobile Development:**
-  - Android (Jetpack Compose, Kotlin)
-  - Cross-platform solutions
 
 - **Backend & Full-Stack:**
   - Python (Django)
@@ -27,12 +24,43 @@ We are a **team of expert developers and designers** who combine our knowledge i
 
 ---
 
-<h2 align="center"> 
-  Team Impact<br><br>
-  <img src="https://profile-counter.glitch.me/shyeecodes/count.svg" />
-</h2>
+## 💼 Our Services
 
-<div>
+### 🌐 Web Development
+Custom websites with cutting-edge technology and CMS integration
+- **Responsive Design**
+- **SEO-Optimized**
+- **E-commerce Solutions**
+- ✅ **98% Client Satisfaction**
+- ✅ **40% Faster Load Times**
+
+### 🔍 SEO Strategy
+Comprehensive SEO services that dominate Kenyan search results
+- **Keyword Research**
+- **Technical SEO**
+- **Local SEO Optimization**
+- ✅ **Avg 3.2x ROI**
+- ✅ **Top 3 Rankings**
+
+### 📱 Social Media Management
+Strategic social campaigns that engage and convert your audience
+- **Content Strategy**
+- **Community Management**
+- **Paid Advertising**
+- ✅ **50%+ Engagement Rate**
+- ✅ **10K Followers/Month**
+
+### 🎨 Brand Design
+Cohesive visual identity that communicates your brand story
+- **Logo Design**
+- **Brand Guidelines**
+- **UI/UX Design**
+- ✅ **2x Brand Recall**
+- ✅ **Professional Impact**
+
+---
+
+<!-- <div>
   <table>
     <tr>
       <td width="100%">
@@ -40,7 +68,7 @@ We are a **team of expert developers and designers** who combine our knowledge i
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <br>
 
